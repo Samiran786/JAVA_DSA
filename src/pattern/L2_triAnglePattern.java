@@ -1,3 +1,4 @@
+package pattern;
 /*
     Problem: Print a triangle of stars - 
         *

@@ -1,3 +1,4 @@
+package pattern;
 import java.util.Scanner;
 
 public class L4_hollowDiamondPattern {
