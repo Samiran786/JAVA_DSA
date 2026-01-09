@@ -22,6 +22,7 @@ public class L2_numberOfFactors_Optimized {
             }
             k=i;
         }
+        
         if(k*k==n){
             ans = (count*2)-1;
         }else{
