@@ -1,4 +1,4 @@
-package pattern;
+package T1_Pattern;
 /*
     Problem: Print a triangle of stars - 
         *

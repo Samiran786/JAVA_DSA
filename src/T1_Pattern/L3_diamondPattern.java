@@ -1,4 +1,4 @@
-package pattern;
+package T1_Pattern;
 import java.util.Scanner;
 
 public class L3_diamondPattern {

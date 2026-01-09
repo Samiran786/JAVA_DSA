@@ -1,4 +1,4 @@
-package function;
+package T2_Function;
 import java.util.Scanner;
 /*
 Creating a programming to find out factorial of f(4)
