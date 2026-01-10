@@ -2,7 +2,7 @@ package T3_Intro_To_Problem_Solving;
 
 import java.util.Scanner;
 
-public class L3_numberOfFactors_OptimizedByLec {
+public class L2_numberOfFactors_OptimizedByLec {
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter your number : ");
