@@ -1,6 +1,9 @@
 package T3_Intro_To_Problem_Solving;
 import java.util.Scanner;
-
+/*
+ 5 Whole numbers = 0,1,2,3,4;
+ 5 Natural numbers = 1,2,3,4,5; 
+ */
 public class L4_additionOfNaturalNumbers {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
